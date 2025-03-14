@@ -1,0 +1,8 @@
+Passo 1: Solicite o peso (em kg) e a altura (em metros)
+Passo 2: Calcule o IMC usando a fórmula:
+IMC = peso / altura^2
+
+
+Passo 3: Exiba o valor do IMC calculado com 2 casas decimais.
+
+

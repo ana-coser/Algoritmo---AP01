@@ -1,0 +1,8 @@
+Passo 1: Solicite o valor da base e da altura do triângulo
+
+Passo 2: Calcule a área do triângulo:
+Área = (base x altura) / 2
+
+Passo 3: Exiba a área do triângulo com 2 casas decimais.
+
+

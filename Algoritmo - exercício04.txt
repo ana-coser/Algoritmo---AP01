@@ -1,0 +1,10 @@
+Passo 1: Solicite um valor
+
+Passo 2: Calcule o quadrado e o cubo do valor:
+quadrado = valor × valor
+cubo = valor × valor
+
+
+Passo 3: Exiba o quadrado e o cubo do valor, ambos com 2 casas decimais.
+
+

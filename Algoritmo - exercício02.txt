@@ -1,0 +1,9 @@
+Passo 1: Solicite a temperatura em Celsius.
+Passo 2: Aplique a fórmula de conversão de Celsius para Fahrenheit :
+F = (C x 9/5) + 32
+​F = Fahrenheit
+C = Celsius
+
+Passo 3: Exiba a temperatura convertida para Fahrenheit com 2 casas decimais.
+
+
